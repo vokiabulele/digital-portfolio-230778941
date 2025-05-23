@@ -7,33 +7,39 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 ## <span style="color:pink">1. Career Counselling</span>
 
 ### Evidence
-- Completed the Career Development module and quiz
-- Reflected on long-term career goals and values
-- Learned how to set SMART goals
+- I completed the Career Development quizzes  
+- Reflected deeply on my long-term career aspirations and personal values.
+- Learned how to create and apply SMART goals to structure my personal and professional growth.
+- Increased confidence in setting actionable steps toward achieving long-term goals
 ![Career Development](./Career%20Development.png)
 
 ### Reflection (STAR)
-**S:** I needed to figure out where I see myself in the future  
-**T:** Set a clear, actionable plan for my career  
-**A:** I explored my strengths, clarified my goals, and set SMART targets  
-**R:** I now have a career development plan that aligns with my personality and values
+-**S:** I was not sure which direction to take with my career.  
+-**T:** The task was to set a clear action plan for my future and career.  
+-**A:** I explored my strengths, clarified my goals, and set SMART targets.  
+-**R:** I now have a clear understanding of my attributes and the direction I want to take in my career.
+
 
 ---
 
 ## <span style="color:pink">2. Skills and Interests</span>
 
 ### Evidence
-- Completed the Skills & Interests quiz
-- Top interests: **Artistic**, **Realistic**
-- Identified transferable and adaptive skills
+- I did the Skills & Interests quiz for the module
+- Top interests icluded: **Critical Thinking**, **Realistic**
+- I enjoy solving problems and thinking through challenges in a logical, hands-on way.
+- This quiz helped confirm that I’m best suited for careers that blend analytical thinking with practical execution.
+
+
 
 ![Skills and Interests](./Skills%20and%20Interests.png)
 
 ### Reflection (STAR)
-**S:** I wasn’t always sure what kind of work I enjoyed  
-**T:** Discover my natural skills and interests  
-**A:** Took the quiz and evaluated past achievements and tasks I enjoy  
-**R:** I realized I thrive in creative and hands-on environments, and I’m more confident when choosing roles that match those strengths
+-**S:** I was not aware of my interests or skills.  
+-**T:** The task was to discover and develop my skills and interests.  
+-**A:** I completed the quiz and identified my key skills and interests.  
+-**R:** As a result, I gained a clearer understanding of my strengths and interests, which now guide my career planning and personal development goals. This self-awareness has helped me make more informed decisions about potential career paths.
+
 
 ---
 
@@ -41,33 +47,39 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 
 ### Evidence
 - My personality type is a mix of **Artistic** and **Realistic**
-- I prefer expressive, creative work and hands-on, practical tasks
-- I do not enjoy investigative or overly theoretical work
+- I’m also drawn to hands-on, practical work where I can see tangible results.
+- I prefer working in environments that allow flexibility, imagination, and autonomy.
+- I appreciate tasks that combine creativity with action — like building, crafting, or designing.
+
+
 
 ![Personality Assesment](./Personality%20Assesment.png)
 
 ### Reflection (STAR)
-**S:** I wanted to better understand what work environments suit me  
-**T:** Match my personality to careers that fit  
-**A:** Completed the personality assessment and analyzed my preferences  
-**R:** I’m now focused on roles that allow me to create and build, rather than ones that are research-heavy or theory-driven
+-**S:** I wanted to better understand what work environments suit me 
+
+-**T:** Match my personality to careers that fit  
+
+-**A:** Completed the personality assessment and analyzed my preferences  
+
+-**R:** I’m now focused on roles that allow me to create and build, rather than ones that are research-heavy or theory-driven
 
 ---
 
 ## <span style="color:pink">4. Create a CV</span>
 
 ### Evidence
-- I designed my CV using **Canva**, a platform that allowed me to highlight my creative and professional strengths  
-- My CV includes education, experience, skills, and personal highlights  
-- ![Create A CV ](./Create%20A%20CV.png)
-- 📄 [Click here to view my CV](./Abulele%20Voki%20Resume.pdf)
+- I designed my CV using **Evidece**, this platform helped me tailor the CV to meet industry standards 
+- My CV includes all the necessary information. I followed the guide that was on Blackboard for  this 
+ ![Create A CV ](./Create%20A%20CV.png)
+ 📄 [Click here to view my CV](./Abulele%20Voki%20Resume.pdf)
   
 
 ### Reflection (STAR)
-**S:** I needed a CV that looked professional but still reflected my creative personality  
-**T:** Build a strong, attractive, and modern CV  
-**A:** Used Canva to create a clean layout, added key information, and exported it as a PDF  
-**R:** I now have a CV I’m proud to use in future applications
+-**S:** I needed a CV that looked professional, reflected my personality, and met industry standards.  
+-**T:** Design a strong, tailored CV using the Evidence platform and submit it for review.  
+-**A:** Used Evidence to build my CV, followed the step-by-step guide from Blackboard, and ensured all required information was included.  
+-**R:** I now have a polished and industry-ready CV that reflects both my strengths and creativity.
 
 ---
 
@@ -79,10 +91,11 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 ![CV Submission](./CV%20Submission.png)
 
 ### Reflection (STAR)
-**S:** I needed to ensure my CV met industry standards  
-**T:** Submit my CV on time for review  
-**A:** Followed submission instructions and made small improvements based on feedback  
-**R:** My CV is now ready for real-world job applications
+-**S:** I needed to make sure that my CV was updated and met industry standards.  
+-**T:** Submit my CV on time for review and update it.  
+-**A:** Followed submission instructions and made small improvements based on feedback.  
+-**R:** My CV is now professional, tailored to industry expectations, and ready to support my job search with confidence.
+
 
 
 ---
