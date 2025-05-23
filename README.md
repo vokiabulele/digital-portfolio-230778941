@@ -60,6 +60,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 - I designed my CV using **Canva**, a platform that allowed me to highlight my creative and professional strengths  
 - My CV includes education, experience, skills, and personal highlights  
 - ![Create A CV ](./Create%20A%20CV.png)
+- 📄 [Click here to view my CV](./Abulele%20Voki%20Resume.pdf)
   
 
 ### Reflection (STAR)
