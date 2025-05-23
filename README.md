@@ -102,4 +102,4 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 
 ## Thank You
 
-This portfolio showcases my growth and readiness for the workplace. Thank you for reviewing my journey.
+This portfolio showcases my growth and readiness as an individual for the workplace as a software developer. 
