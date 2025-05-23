@@ -6,7 +6,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 Section Links
 =
 
-1. [Career Counselling](./career-counselling/README.md)
+1. [Career Counselling](./Career-Counselling/README.md)
 2. [Skills and Interests](./skills-and-interests/README.md)
 3. [Personality Assessment](./personality-assessment/README.md)
 4. [Create a CV](./create-cv/README.md)
