@@ -1,5 +1,5 @@
 # Work Readiness Digital Portfolio
-Welcome to my digital portfolio. This portfolio captures my journey in project presentation  to help prepare for work readiness and also captures my reflections on this journey.
+Welcome to my digital portfolio. This portfolio captures my journey in project presentation  to help prepare for work readiness, and also captures my reflections on this journey.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 ### Evidence
 - I designed my CV using **Canva**, a platform that allowed me to highlight my creative and professional strengths  
 - My CV includes education, experience, skills, and personal highlights  
-- ![CV ](./(./Create20%A20%CV.png))
+- ![Create A CV ](./Create%20A%20CV.png)
   
 
 ### Reflection (STAR)
