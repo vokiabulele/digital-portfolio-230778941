@@ -10,7 +10,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 - Completed the Career Development module and quiz
 - Reflected on long-term career goals and values
 - Learned how to set SMART goals
-![Career Development Screenshot](./Career%20Development%201.png)
+![Career Development](./Career%20Development.png)
 
 ### Reflection (STAR)
 **S:** I needed to figure out where I see myself in the future  
@@ -44,7 +44,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 - I prefer expressive, creative work and hands-on, practical tasks
 - I do not enjoy investigative or overly theoretical work
 
-![Personality Assessment](./Personality%20Assessment.png)
+![Personality Assesment](./Personality%20Assesment.png)
 
 ### Reflection (STAR)
 **S:** I wanted to better understand what work environments suit me  
@@ -59,7 +59,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 ### Evidence
 - I designed my CV using **Canva**, a platform that allowed me to highlight my creative and professional strengths  
 - My CV includes education, experience, skills, and personal highlights  
-- 📄 [Click here to view my CV](./221043756%20CV.pdf)
+- 📄 [Click here to view my CV](./Create20%CV.pdf)
 
 ### Reflection (STAR)
 **S:** I needed a CV that looked professional but still reflected my creative personality  
@@ -74,7 +74,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 ### Evidence
 - I submitted my CV through the official platform (Blackboard) as required
 
-![CV Submission](./CV%20submission.png)
+![CV Submission](./CV%20Submission.png)
 
 ### Reflection (STAR)
 **S:** I needed to ensure my CV met industry standards  
