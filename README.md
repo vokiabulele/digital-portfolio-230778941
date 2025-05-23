@@ -1,4 +1,4 @@
-# Work Readiness Digital-portfolio
+# Work Readiness Digital Portfolio
 Welcome to my digital portfolio. This portfolio captures my journey in project presentation  to help prepare for work readiness and also captures my reflections on this journey.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
