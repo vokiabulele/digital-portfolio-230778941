@@ -105,7 +105,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 ### Evidence
 - I submitted my CV through the official platform (Blackboard) as required
 
-![CV Submission](./Business%20Communication.png)
+![Business Communication](./Business%20Communication.png)
 
 ### Reflection (STAR)
 -**S:** I needed to make sure that my CV was updated and met industry standards.  
@@ -115,7 +115,7 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 
 
 
----****
+---
 
 ## Thank You
 
