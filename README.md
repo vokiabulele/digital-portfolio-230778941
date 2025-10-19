@@ -98,7 +98,7 @@ Through these exercises, I have developed essential skills such as communication
 - I explored various forms of business communication, including verbal, non-verbal, and written communication.  
 - Learned how tone, clarity, and professionalism impact workplace interactions.  
 
-![Business Communication](./Business%20Communication.png)
+![Business Communication](./Business%20Commuincation.png)
 
 ### Reflection (STAR)
 - **S:** I realized my communication style sometimes lacked professionalism.  
