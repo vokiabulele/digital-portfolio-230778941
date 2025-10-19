@@ -100,6 +100,23 @@ Welcome to my digital portfolio. This portfolio captures my journey in project p
 
 ---
 
+## <span style="color:pink">6,Business Communication</span>
+
+### Evidence
+- I submitted my CV through the official platform (Blackboard) as required
+
+![CV Submission](./Business%20Communication.png)
+
+### Reflection (STAR)
+-**S:** I needed to make sure that my CV was updated and met industry standards.  
+-**T:** Submit my CV on time for review and update it.  
+-**A:** Followed submission instructions and made small improvements based on feedback.  
+-**R:** My CV is now professional, tailored to industry expectations, and ready to support my job search with confidence.
+
+
+
+---****
+
 ## Thank You
 
 This portfolio showcases my growth and readiness as an individual for the workplace as a software developer. 
